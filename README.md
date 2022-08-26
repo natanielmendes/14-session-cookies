@@ -1,1 +1,1 @@
-# 14-session-cookies
+# NodeJS Session and Cookies Playground
