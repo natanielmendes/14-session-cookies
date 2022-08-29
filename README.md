@@ -1,1 +1,1 @@
-# NodeJS Session and Cookies Playground
+# Practicing NodeJS Session and Cookies
