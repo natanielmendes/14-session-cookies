@@ -1,1 +1,1 @@
-# Practicing NodeJS Session and Cookies Management
+# Practicing NodeJS Session and Cookies
